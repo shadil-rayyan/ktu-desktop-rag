@@ -1,0 +1,7 @@
+PyPDF2
+urllib3
+requests
+ttkbootstrap
+langchain
+langchain_community
+ ollama
