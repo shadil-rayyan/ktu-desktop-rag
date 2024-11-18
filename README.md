@@ -1,4 +1,3 @@
-
 # KTU Desktop RAG (Retrieval-Augmented Generation)
 
 **KTU Desktop RAG** is a desktop application built to assist students of **Kerala Technological University (KTU)** in accessing accurate information from textbooks, notes, and other academic resources. The project leverages **Ollama**'s advanced RAG model to provide precise answers to student queries by integrating retrieval and generative AI capabilities. Designed with a user-friendly GUI using **Tkinter**, the tool aims to simplify academic search and enhance the learning experience.
